@@ -1,0 +1,6 @@
+[submodule "qoriginal"]
+	path = qoriginal
+	url = https://github.com/ericauld/QuIP.git
+[submodule "qsharp"]
+	path = qsharp
+	url = https://github.com/ericauld/quip-sharp.git
